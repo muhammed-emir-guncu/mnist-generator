@@ -33,7 +33,7 @@ jobs:
 
       - name: uret
         run: |
-          python action.py
+          python action_gen.py
 
       - name: Commit Push
         uses: stefanzweifel/git-auto-commit-action@v5
