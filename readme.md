@@ -9,8 +9,11 @@ GAN veya VAE gibi derin öğrenme mimarilerine ihtiyaç duymadan, boyut indirgem
 * **Görseller:** GitHub Actions altyapısı ile belirli aralıklarla otomatik olarak yeni görseller üretilip README sayfasına işlenir.
 ### Oluşturulmuş Resimler
 ![oluşturulmuş görüntü](assets/asset-1.png)
+
 ![oluşturulmuş görüntü](assets/asset-2.png)
+
 ![oluşturulmuş görüntü](assets/asset-3.png)
+
 ![oluşturulmuş görüntü](assets/asset-4.png)
 
 
