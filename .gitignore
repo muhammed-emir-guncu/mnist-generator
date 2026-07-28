@@ -1,0 +1,4 @@
+__pycache__/
+gener/
+model/__pycache__
+model/mnist_train.csv
